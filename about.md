@@ -1,6 +1,6 @@
-# Edson Susumu Asaga
+# Susumu Asaka
 
-Edson Susumu Asaga (17 de maio de 1964) é cientista de dados com mais de 10 anos de experiência usando modelos de aprendizado de máquina e mineração de dados para resolver problemas de negócio desafiadores. 
+Susumu Asaka (17 de maio de 1964) é cientista de dados com mais de 10 anos de experiência usando modelos de aprendizado de máquina e mineração de dados para resolver problemas de negócio desafiadores. 
 
 Atualmente, atua como Especialista Big Data na Semantix.
 

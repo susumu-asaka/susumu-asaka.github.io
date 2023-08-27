@@ -2,7 +2,7 @@
 title: "Workflows de Git Sem Embaraços: Prevenindo a Dificuldade de Conflitos de Merge"
 
 author:
-- Edson Susumu Asaga
+- Susumu Asaka
 - Alex Francisco Soares do Nascimento
 - Gabriel Pereira Costa
 - Wilson Pereira Barros Junior
@@ -11,7 +11,7 @@ date: Dezembro de 2021
 
 ---
 
-Email: <edson.susumu@semantix.inc>
+Email: <susumuasaka64@gmail.com>
 
 ## Resumo
 

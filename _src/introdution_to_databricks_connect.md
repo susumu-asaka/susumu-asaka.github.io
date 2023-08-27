@@ -2,13 +2,13 @@
 title: "Introdução ao Databricks Connect"
 
 author:
-- Edson Susumu Asaga
+- Susumu Asaka
 
 date: Março de 2022
 
 ---
 
-Email: <edson.susumu@semantix.inc>
+Email: <susumuasaka64@gmail.com>
 
 ## Resumo
 

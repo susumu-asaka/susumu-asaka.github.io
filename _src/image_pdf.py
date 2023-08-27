@@ -6,7 +6,7 @@ import panflute
 def action(elem: panflute.Element, doc: panflute.Doc) -> None:
     if isinstance(elem, panflute.Image) or isinstance(elem, panflute.Link):
         elem.url = re.sub(r"^\s*\.\./",
-                          "d:/susum/susumuasaga.github.io - Copy/",
+                          "d:/susum/susumu-asaka.github.io/",
                           elem.url)
 
 
